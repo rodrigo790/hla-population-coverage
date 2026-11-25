@@ -1,0 +1,12 @@
+{
+  "cohorts": 4,
+  "panels": 3,
+  "scenarios": 36,
+  "largest_between_group_gap_pp": 45.13,
+  "coverage_three_group_panel": {
+    "EUR": 0.8017,
+    "AFA": 0.3504,
+    "API": 0.5481,
+    "HIS": 0.6209
+  }
+}
