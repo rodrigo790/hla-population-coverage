@@ -32,7 +32,7 @@ Start the interface with `python -m streamlit run app.py`. Results in the reposi
 
 ## Interpretation
 
-The registry codes describe observed study groups. They are not geographic regions or individual identities. The analysis is single-locus and omits haplotype linkage, vaccine endpoints and clinical outcomes. The F scenarios are sensitivity assumptions and not fitted population estimates.
+The registry codes refer to categories defined by the original donor study. The analysis estimates HLA-A carrier frequencies at one locus. Treat the F scenarios as hypothetical departures from random pairing.
 
 ## Sources and licenses
 
